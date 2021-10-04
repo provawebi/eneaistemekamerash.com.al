@@ -1,0 +1,15 @@
+/* selector{
+	property: value ;
+
+}*/
+
+h2 {
+	color: red;
+}
+
+p{
+	color: darkblue;
+}
+p {
+	color: red;
+}
